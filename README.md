@@ -1,11 +1,11 @@
-# Console.WriteLine("Hello, World! 👋")
+# logger.info(Hello! I'm Samuel Sena.")
 
 <p float="left">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3AB0FF&width=480&height=40&lines=Hi%2C+I'm+Samuel+Sena.;Software+Developer+%7C+MSc+Student+at+UFMG." alt="Typing SVG" />
   </a>
 
-  <img src="https://raw.githubusercontent.com/MuelSena/MuelSena/main/assets/pixel-avatar.png" width="220" align="right" style="margin-left: 15px;">
+  <img src="https://github.com/Globson/Globson/blob/main/grobsPixelArt.png" width="220" align="right" style="margin-left: 15px;">
 </p>
 
 - 🎓 Bachelor's degree in Computer Science – UFV  
@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/MuelSena">
+  <a href="https://github.com/Globson">
     <img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;&nbsp;
@@ -56,16 +56,16 @@ I’m a software developer with a strong academic background and hands-on experi
 ### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/MuelSena">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuelSena&show_icons=true&hide_border=true&theme=tokyonight"/>
+  <a href="https://github.com/Globson">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Globson&show_icons=true&hide_border=true&theme=tokyonight"/>
   </a>
-  <a href="https://github.com/MuelSena">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuelSena&layout=compact&hide_border=true&theme=tokyonight"/>
+  <a href="https://github.com/Globson">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Globson&layout=compact&hide_border=true&theme=tokyonight"/>
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MuelSena&label=Profile+Views&color=3AB0FF&style=flat" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Globson&label=Profile+Views&color=3AB0FF&style=flat" alt="Profile views"/>
 </div>
